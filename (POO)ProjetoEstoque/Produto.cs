@@ -12,7 +12,7 @@ namespace _POO_ProjetoEstoque
         public double Preco;
         public int Quantidade;
 
-        public double ValorTotalEmEstoque() //Inoformar valor total do estoque
+        public double ValorTotalEmEstoque() //Informar valor total do estoque
         {
             return Preco * Quantidade;
         }

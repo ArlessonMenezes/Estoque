@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\bin\Debug\netcoreapp3.1\(POO)ProjetoEstoque.exe
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\bin\Debug\netcoreapp3.1\(POO)ProjetoEstoque.deps.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\bin\Debug\netcoreapp3.1\(POO)ProjetoEstoque.runtimeconfig.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\bin\Debug\netcoreapp3.1\(POO)ProjetoEstoque.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\bin\Debug\netcoreapp3.1\(POO)ProjetoEstoque.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\bin\Debug\netcoreapp3.1\(POO)ProjetoEstoque.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\(POO)ProjetoEstoque\(POO)ProjetoEstoque\obj\Debug\netcoreapp3.1\(POO)ProjetoEstoque.genruntimeconfig.cache
